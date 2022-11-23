@@ -1,5 +1,5 @@
 snapshots/*
 cache/*
 vendor/*
-physical_printer/4.ini
+physical_printer/*
 PrusaSlicer.ini
